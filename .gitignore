@@ -1,0 +1,37 @@
+# Unreal Engine
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+FileOpenOrder/
+obj/
+
+# Unreal generated files
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.xcworkspace
+*.xcodeproj
+*.sln
+*.db
+
+# Visual Studio
+.vs/
+.idea/
+
+# Plugins to exclude
+Plugins/Diversion/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Crash reports
+CrashReportClient/

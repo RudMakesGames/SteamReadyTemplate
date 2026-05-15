@@ -1,0 +1,16 @@
+{
+  "WorkspaceID": "dv.ws.2e07f28f-620a-4af8-bf18-58d3a27eb524",
+  "RepoID": "dv.repo.f1e043d6-8d66-4f5a-8b31-f5ad114e10ca",
+  "Path": "E:\\SkullBlood",
+  "AccountID": "Google_113106798372444334575",
+  "BranchID": "dv.branch.6",
+  "BranchName": "Tech",
+  "CommitID": "dv.commit.25",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "SkullBlood",
+  "PauseReason": "Temporary error - retrying automatically",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "INDIE"
+}
