@@ -58,4 +58,4 @@ This template is free to use in personal and commercial projects. No attribution
 
 ## Credits
 - Multiplayer session handling built with the [Advanced Sessions Plugin](https://forums.unrealengine.com/t/advanced-sessions-plugin/27457) by Josh Hutchinson
-- UI Design by [CrimsonAl](https://www.artstation.com/crimsonal)
+- UI Design by [Crimsonal](https://www.artstation.com/crimsonal)
