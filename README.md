@@ -39,8 +39,8 @@ C:\Program Files\Epic Games\UE_5.7\Templates\
 ## Configuration
 Once you create a project from the template:
 1. Open the project in UE 5.7
-2. Set your Steam App ID in `Config/DefaultEngine.ini` under `SteamDevAppId`
-3. Play in editor with at least two instances to test lobby functionality
+2. Set your Steam App ID in `Config/DefaultEngine.ini` under `SteamDevAppId` (Default App ID is 480)
+3. Play in editor(Standalone Mode) with at least two instances to test lobby functionality in Lan (Steam must be running before you play)
 
 ---
 
