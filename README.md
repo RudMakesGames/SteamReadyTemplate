@@ -41,6 +41,7 @@ Once you create a project from the template:
 1. Open the project in UE 5.7
 2. Set your Steam App ID in `Config/DefaultEngine.ini` under `SteamDevAppId` (Default App ID is 480)
 3. Play in editor(Standalone Mode) with at least two instances to test lobby functionality in Lan (Steam must be running before you play)
+4. Note :- When Adding Sounds to the game , Go into the sound asset and search for class and assign it according to the type of sound(Ex. SCM_UI for UI sounds). The default button sounds in the game already use this.
 
 ---
 
